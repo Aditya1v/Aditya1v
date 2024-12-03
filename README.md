@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1v&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1v" /> </p>
 
-- 🌱 I’m currently learning **TailwindCSS, React NAtive**
+- 🌱 I’m currently learning **TailwindCSS, React Native**
 
 - 💬 Ask me about **Python, FrontEnd**
 
