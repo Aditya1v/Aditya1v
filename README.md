@@ -1,6 +1,7 @@
-
+<img align="center" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Developer Banner" />
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coder GIF"  width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1v&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1v" /> </p>
 
