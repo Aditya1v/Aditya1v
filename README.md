@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/27ff3118-9be9-49fa-a7f9-10f1f312f122)
+[![MasterHead](https://github.com/user-attachments/assets/27ff3118-9be9-49fa-a7f9-10f1f312f122.gif)]
 
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
