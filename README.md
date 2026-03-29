@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a  Computer Science Engineering student passionate about learning, building, and solving real-world problems through technology.<br>🌱 Currently improving my Data Structures & Algorithms and building full-stack projects using MERN.<br>💼 Preparing for internship & SDE roles at product-based companies.<br><br>
+ <h3>🎓I’m a  Computer Science Engineering student passionate about learning, building, and solving real-world problems through technology.<br>🌱 Currently improving my Data Structures & Algorithms and building full-stack projects using MERN.<br>💼 Preparing for internship & SDE roles at product-based companies.<br><br></h3>
 
 
 ## 🌐 Socials:
