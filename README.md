@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:6d28d9,100:0ea5e9&text=Aditya%20Verma&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20GenAI%20Builder&descAlignY=60&descSize=18" alt="Aditya Verma" width="100%"/>
 
@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/aditya1v/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:verma.aditya.cs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</div>
+</div> -->
 
 ## 👋 About
 I'm a B.Tech CSE student (2023–2027) from Lucknow and a **Full-Stack Developer** focused on building **scalable, production-ready web applications** using the **MERN stack**. I enjoy turning ideas into functional products and continuously improving my skills in **frontend, backend, and full-stack development**. Outside of tech, I'm a proud member of the **Mugiwara** crew 🏴‍☠️
@@ -62,6 +62,6 @@ const aditya = {
 
 <sub>⭐ Liked something? A star on a repo goes a long way.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:6d28d9,100:0f172a&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:6d28d9,100:0f172a&section=footer" width="100%"/> -->
 
 </div>
