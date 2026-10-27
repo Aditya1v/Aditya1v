@@ -13,7 +13,7 @@
 </div> -->
 
 ## 👋 About
-I'm a B.Tech CSE student (2023–2027) from Lucknow and a **Full-Stack Developer** focused on building **scalable, production-ready web applications** using the **MERN stack**. I enjoy turning ideas into functional products and continuously improving my skills in **frontend, backend, and full-stack development**. Outside of tech, I'm a proud member of the **Mugiwara** crew 🏴‍☠️
+I'm a B.Tech CSE student (2023–2027) from Lucknow and a **Full-Stack Developer** focused on building **scalable, production-ready web applications** using the **MERN stack**. I enjoy turning ideas into functional products and continuously improving my skills in **frontend, backend, and full-stack development**.
 
 ```js
 const aditya = {
